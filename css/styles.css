@@ -1,6 +1,7 @@
 #walrus-showing {
-  display: none;
+/*  display: none;
   height: 50px;
+  */
 }
 
 img {
@@ -18,3 +19,17 @@ img {
   cursor: pointer;
   color: #0088cc;
 }
+
+.dark {
+  background-color: black;
+  color: white;
+
+}
+
+.light {
+  background-color: white;
+  color:black;
+
+}
+
+
